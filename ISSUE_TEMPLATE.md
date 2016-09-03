@@ -11,6 +11,7 @@ Crash-report:
    
     
 ####About the Modpack:
+Modpack name:    
 Modpack version:  
 Client or Server:  
 Any self added mods?  
